@@ -1,2 +1,2 @@
 # myclass
-this my git class.
+this my git repository.
